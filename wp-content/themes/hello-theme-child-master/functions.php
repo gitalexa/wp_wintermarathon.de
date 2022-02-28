@@ -142,6 +142,7 @@ function another_login_url( $force_reauth, $redirect ){
     return $login_url ;
 }
 
+
 function own_lostpassurl($lostpassword_url, $redirect ) {
     return 'https://wintermarathon.de/auth/lostpassword/';
 }
