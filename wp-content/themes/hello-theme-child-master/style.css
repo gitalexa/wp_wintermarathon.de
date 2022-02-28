@@ -47,6 +47,12 @@ div.adverts-flash-messages.adverts-flash-info {
 }
 
 input[type="submit"].adverts-button{
+
+}
+
+body input[type="submit"].adverts-button,
+body .adverts-button,
+body .adverts-upload-actions a.button {
     background-color: #0D2E4A !important;
 
     color: rgb(255, 255, 255) !important;
@@ -58,4 +64,21 @@ input[type="submit"].adverts-button{
     font-weight: 500 !important;
     letter-spacing: normal !important;
     line-height: 20px !important;
+}
+
+.mce-ico{
+    color: white !important;
+}
+
+.mce-btn > button:hover{
+    background-color: #6EC1E1;
+}
+
+
+.adverts-field-error{
+    background-color: #6EC1E1 !important;
+}
+
+.adverts-flash-messages.adverts-flash-error{
+    background-color: #6EC1E1 !important;
 }
