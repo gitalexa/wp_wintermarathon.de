@@ -1,0 +1,24 @@
+<div id="teaser-infopage">
+    <article>
+        <h3><?php the_title() ?></h3>
+        <?php
+        if(!empty(get_the_content())) {
+            the_content();
+        }
+
+        if(CFS()->get('link_name')) {
+            echo '<div class="teaser-button-container">';
+
+
+
+            echo '<a class="teaser-button"';
+            if (CFS()->get('link_adresse') != ""){ echo ' target="_blank"';}
+
+
+            echo ' href="' . (CFS()->get('link_adresse') ? : CFS()->get('link_interne_adresse')) . '">' . CFS()->get('link_name') . '</a>';
+            echo '</div>';
+        }
+        ?>
+    </article>
+    <div class="clear"></div>
+</div>

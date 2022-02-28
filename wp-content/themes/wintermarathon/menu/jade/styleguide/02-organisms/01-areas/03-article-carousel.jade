@@ -1,0 +1,22 @@
+div#article-carousel-container
+    div#article-carousel
+        //[#assign i = 0]
+        //[#list components as component ]
+            //[#assign i = i+1]
+            //[#assign articleId = 'article_' + i]
+            //div_id=${articleId!}
+        div.article-container
+            include ../02-components/00-article
+        div.article-container
+            include ../02-components/00-article
+        div.article-container
+            include ../02-components/04-article-with-wufoo
+            //[@cms.component content=component /]
+        //[/#list]
+    div.button-container
+
+
+
+
+
+

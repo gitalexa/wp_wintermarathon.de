@@ -1,0 +1,222 @@
+h1 {
+  font-size: 75px;
+}
+h1.datum {
+  font-size: 50px;
+}
+h2 {
+  font-size: 43px;
+}
+h3 {
+  font-size: 28px;
+  padding-bottom: 12px;
+}
+h4 {
+  font-size: 22px;
+}
+h5 {
+  font-size: 22px;
+}
+p {
+  font-size: 19px;
+}
+p.dark {
+  font-size: 19px;
+}
+a {
+  font-size: 19px;
+}
+#content-container {
+  padding-top: 101px;
+}
+#nav ul {
+  padding: 38px 0 63px 38px;
+}
+#nav_icon {
+  margin: 38px 0 38px 38px;
+  height: 25px;
+}
+#close_icon {
+  margin: 38px 0 38px 38px;
+  height: 25px;
+}
+#nav_text {
+  margin-left: 75px;
+  padding: 41px 38px;
+}
+header {
+  height: 101px;
+}
+.menu_background {
+  height: 101px;
+  width: 300px;
+}
+.logo_background {
+  height: 101px;
+  width: 400px;
+}
+.logo_background img {
+  margin: 26px 50px 0 50px;
+  width: 300px;
+}
+.green_background {
+  padding: 24px 0 0 38px;
+  height: 77px;
+  width: 462px;
+}
+.imprint img {
+  margin-top: 50px;
+  width: 40px;
+}
+footer article {
+  padding: 33px 0 50px 275px;
+}
+.article {
+  padding-bottom: 40px;
+}
+.article .copyright-line {
+  font-size: 15px;
+  height: 15px;
+  padding: 12px 12px 0;
+}
+.article .article-text {
+  padding: 12px 25px 0 25px;
+}
+.article .expander {
+  margin-top: 8px;
+  width: 40px;
+  height: 40px;
+}
+.article .share-plus-reducer {
+  margin: 31px 25px 0;
+}
+.article .share-plus-reducer .fb-share-container {
+  padding: 5px 6px 4px;
+}
+.article .share-plus-reducer .fb-share-container a {
+  font-size: 15px;
+}
+.article .share-plus-reducer .reducer {
+  width: 40px;
+  height: 40px;
+}
+#content-head {
+  height: 575px;
+}
+#content-head .box {
+  padding: 31px 0 31px 38px;
+}
+.teaser-registration {
+  padding: 40px 225px 63px;
+}
+.teaser-button-container {
+  margin-top: 40px;
+}
+.teaser-button-container .teaser-button {
+  font-size: 20px;
+  padding: 6px;
+}
+#teaser-infopage {
+  padding: 50px 8.333% 63px;
+}
+#article-carousel-container {
+  padding: 50px 0;
+}
+#article-carousel-container #article-carousel .article .article-text .text-block {
+  height: 77px;
+}
+#archive-carousel-container {
+  padding: 44px 0 50px;
+}
+#archive-carousel {
+  margin: 31px auto 0;
+}
+#archive-carousel-container #archive-carousel .article .article-text h3 {
+  font-size: 22px;
+}
+#archive-carousel-container #archive-carousel .article .article-text .text-block {
+  height: 77px;
+}
+.button-container {
+  height: 19px;
+  padding-top: 38px;
+}
+.slick-dots {
+  bottom: -56px;
+}
+.slick-dots li {
+  height: 19px;
+  width: 19px;
+}
+#partner-carousel-container {
+  padding: 31px 0 50px;
+}
+#partner-carousel .logo-container {
+  margin: 0 24px;
+  width: 177px;
+}
+#course {
+  padding-bottom: 63px;
+}
+.course_p {
+  padding: 31px 25px 44px;
+}
+.layer .article {
+  margin-top: 101px;
+}
+#content-infopage #info-area h3 {
+  margin-bottom: 18px;
+}
+#content-infopage #info-area .line-comp {
+  height: 20px;
+}
+#content-infopage #info-area .info-comp {
+  padding-bottom: 22px;
+}
+#content-infopage #info-area .info-comp .info-headline {
+  width: 200px;
+}
+#content-infopage #info-area .info-comp .break {
+  margin-left: 200px;
+}
+#gallerySelect-button,
+#gallerySelect-menu li {
+  font-size: 20px;
+}
+#gallerySelect-menu li {
+  padding: 6px;
+}
+#gallerySelect-button .ui-selectmenu-text {
+  padding: 6px 54px 6px 6px;
+}
+#gallerySelect-button .ui-selectmenu-text::after {
+  font-size: 29px;
+}
+.registration label {
+  font-size: 19px;
+}
+.registration .input-wrapper input[type="text"] {
+  font-size: 17px;
+}
+.registration .textarea-wrapper textarea {
+  font-size: 17px;
+}
+.registration .button-wrapper .button {
+  font-size: 20px;
+  padding: 6px;
+}
+#gallery-carousel .carousel-item .gallery-teaser-text {
+  padding: 10px 25px 15px;
+}
+#gallery-carousel .carousel-item .gallery-teaser-text h3 {
+  font-size: 22px;
+}
+.registration .checkbox-wrapper input[type="checkbox"] {
+  margin: 5px 3px;
+}
+.gallery-description {
+  margin-bottom: 30px;
+}
+.fancybox-title {
+  padding: 40px 3.75% 30px;
+}

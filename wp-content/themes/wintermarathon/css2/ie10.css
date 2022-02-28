@@ -1,0 +1,21 @@
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .menu_background #nav ul {
+    width: 88%;
+  }
+  .menu_background a {
+    text-decoration: none;
+    color: transparent;
+  }
+  .teaser-button {
+    font-family: arial;
+  }
+  a {
+    width: 15%;
+  }
+  a .logo_background img {
+    text-decoration: none;
+  }
+  #partner-carousel-container #partner-carousel .logo-container img {
+    height: 100%;
+  }
+}

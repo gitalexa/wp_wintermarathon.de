@@ -1,0 +1,108 @@
+h1 a,h2{
+	text-transform:uppercase;
+	color:black !important;
+	/*font-size:90px !important;}*/
+	}
+
+h2,h4{line-height:1.5}
+
+a {
+	/*text-transform:uppercase;
+	color:black !important;
+	font-size:90px !important;*/
+}
+	
+	
+.site-branding h1
+
+{
+	background-image: url(https://www.wintermarathon.de/wp-content/themes/wintermarathon/img/logo/logo.svg);
+	background-repeat: no-repeat;
+	text-transform:uppercase;
+	color:black !important;
+	
+	height:70px;
+	width:480px;
+	}
+
+.site-branding h1 a
+
+{
+	font-size:50px !important;
+	/*display:none;*/
+	color: #838ea5;
+	opacity: 0.0;
+	/*color:white !important;*/
+	
+	}
+
+.awpcp-classifieds-menu--menu-item-link
+{
+	color: #0d2e4a;
+
+	}
+
+.awpcp-listing-title a
+{
+	color: #0d2e4a;	
+}
+
+.awpcp-listings h1
+
+{
+   
+    font-family: inherit;
+    font-weight: 300;
+    line-height: 1.2;
+    color: inherit;
+	
+	}
+
+.awpcp-title a
+{
+    
+    font-family: inherit;
+    font-weight: 300;
+    line-height: 1.2;
+   	color: #0d2e4a;	
+	
+	}
+
+.showawpcpadpage a
+{
+   	color: #0d2e4a;	
+}
+
+.awpcp-payment-terms-list
+{
+   	display: none;	
+}
+
+
+[type=button], [type=submit], button {
+    display: inline-block;
+    font-weight: 400;
+    color: #0d2e4a;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 2px solid #0d2e4a;
+	
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: 3px;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+[type=button]:focus, [type=button]:hover, [type=submit]:focus, [type=submit]:hover, button:focus, button:hover {
+    color: #fff;
+    background-color: #0d2e4a;
+    text-decoration: none;
+}
+

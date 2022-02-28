@@ -1,0 +1,61 @@
+/* 
+Theme Name: Hello Elementor Child
+Theme URI: https://github.com/elementor/hello-theme/
+Description: Hello Elementor Child is a child theme of Hello Elementor, created by Elementor team
+Author: Elementor Team
+Author URI: https://elementor.com/
+Template: hello-elementor
+Version: 1.0.1
+Text Domain: hello-elementor-child
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
+*/
+
+/*
+    Add your custom styles here
+*/
+
+
+
+
+.cc_btn img{
+    min-width: 20px;
+}
+
+
+.advert-link-text, .advert-date{
+    color: #0D2E4A !important;
+}
+
+
+
+.advert-img{
+    display: none !important;
+}
+
+.advert-input.advert-input-type-half.advert-input-type-half-left{
+    width: 100% !important;
+}
+
+div.adverts-flash-messages.adverts-flash-info {
+    background-color: #d3dadf !important;
+}
+
+.adverts-flash-message-icon.adverts-icon-ok, .adverts-flash-message-text.adverts-flash-padding{
+    color: #0D2E4A !important;
+}
+
+input[type="submit"].adverts-button{
+    background-color: #0D2E4A !important;
+
+    color: rgb(255, 255, 255) !important;
+
+    font-family: Roboto, Arial !important;
+    font-size: 20px !important;
+    font-style: normal !important;
+    font-variant: normal !important;
+    font-weight: 500 !important;
+    letter-spacing: normal !important;
+    line-height: 20px !important;
+}

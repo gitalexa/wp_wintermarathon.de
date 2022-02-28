@@ -1,0 +1,49 @@
+/* generally */
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+a:active {
+  text-decoration: none;
+}
+a:focus {
+  text-decoration: none;
+}
+.clear {
+  clear: both;
+}
+body {
+  margin: 0;
+}
+.stylehead {
+  border-bottom: 1px solid #CFD5DB;
+  color: #0D2E4A;
+  font-family: arial;
+  font-size: 14px;
+}
+/* Farbendefinition */
+.sg-colors li {
+  float: left;
+  width: 80px;
+}
+.sg-colors li {
+  border: 1px solid #DDDDDD;
+  margin: 0 0.4em 0.2em 0;
+  overflow: hidden;
+  padding: 0.3em;
+  padding-left: 0.6em;
+  padding-right: 0.6em;
+}
+.sg-swatch {
+  height: 75px;
+  margin-bottom: 0.6em;
+  width: 100%;
+}
+.sg-label {
+  font-size: 17px;
+}
